@@ -13,3 +13,5 @@ if option == "1":
     print(f"""
 El resultado de {num_uno} más {num_dos} es {num_uno+num_dos}
 """)
+    
+print("Lo he logrado")
